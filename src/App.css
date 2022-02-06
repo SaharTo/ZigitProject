@@ -1,0 +1,92 @@
+.avatar{
+  border-radius: 80px;
+  text-align: center;
+}
+.personalDetails{
+  display:inline-block;
+  margin-top: 10px;
+  margin-left: 30px;
+  border:50px;
+  width: 250px;
+  text-align: center; 
+  border: 5px solid rgba(102, 116, 98, 0.103);
+}
+th,
+td {
+  border: 1px solid black;
+  margin: 0px 0px;
+  padding: 5px 5px;
+}
+.projects{
+  margin: auto;
+  width: 50%;
+}
+.projectsTitle{
+  text-align: center;
+}
+.logoutBtn{
+  margin-top: 10px;
+  margin-left: 95%;
+  height: 40px;
+  width: 70px;
+  background-color: rgba(236, 30, 71, 0.486);
+  border-radius: 40px;
+  border: 0;
+  cursor: pointer;
+}
+.under70{
+  background-color: brown;
+}
+.over90{
+  background-color: green;
+}
+.regular{
+  background-color:aliceblue;
+}
+table{
+  width: 100%;
+}
+.searchInput{
+  border-radius: 10px;
+  align-items: center;
+  margin-bottom: 5px;
+  border: 0;
+  height: 35px;
+  width: 30%;
+  padding-inline-start: 5px;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+.loginForm{
+  background-color: rgba(211, 212, 212, 0.219);
+  margin: auto;
+  margin-top:5%;
+  width: 30%;
+  border: 3px solid rgba(128, 129, 128, 0.26);
+  padding: 10px;
+  height: 300px;
+}
+.loginTitle{
+  text-align: center;
+}
+.loginInput{
+  display: block;
+  margin: 10px auto;
+  border-radius: 10px;
+  height: 25px;
+}
+.loginBtn{
+  border-radius: 40px;
+  background-color: #90ee90;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  width: 70px;
+  height: 30px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 20px;
+}
+.mainTitle{
+  text-align: center;
+}

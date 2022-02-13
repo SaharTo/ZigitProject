@@ -46,17 +46,7 @@ td {
 table{
   width: 100%;
 }
-.searchInput{
-  border-radius: 10px;
-  align-items: center;
-  margin-bottom: 5px;
-  border: 0;
-  height: 35px;
-  width: 30%;
-  padding-inline-start: 5px;
-  font-size: 20px;
-  background-color: aliceblue;
-}
+
 .loginForm{
   background-color: rgba(211, 212, 212, 0.219);
   margin: auto;
